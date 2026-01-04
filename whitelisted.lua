@@ -1,4 +1,3 @@
-{
-  "userId": "$1",
-  "encode": true
+return {
+    [1264940558] = true,
 }
