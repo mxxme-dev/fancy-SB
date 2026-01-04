@@ -1,1 +1,4 @@
-kid54
+{
+  "userId": "$1",
+  "encode": true
+}
