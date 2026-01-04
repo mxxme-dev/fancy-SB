@@ -1,4 +1,1 @@
-{
-  "userId": "$1",
-  "encode": true
-}
+kid54
